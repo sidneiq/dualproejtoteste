@@ -13,6 +13,6 @@ public class Projeto1Application implements CommandLineRunner {
 	
 	@Override
 	public void run(String... args) throws Exception {
-		System.out.println("Projeto2Application");
+		System.out.println("Projeto1Application");
 	}
 }
